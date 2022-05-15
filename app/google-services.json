@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "155872078408",
+    "project_id": "pmt-messenger",
+    "storage_bucket": "pmt-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155872078408:android:90587064aeebe0dd7dc67d",
+        "android_client_info": {
+          "package_name": "com.example.InstantMessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155872078408-64klb37sjpj48ac3jb6hogputtk6dq8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxKbV_lKB_remR8AUsJ9W_dUBFI99HRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155872078408-64klb37sjpj48ac3jb6hogputtk6dq8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155872078408:android:2e300fe1ce75207e7dc67d",
+        "android_client_info": {
+          "package_name": "com.example.InstantMessenger2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155872078408-64klb37sjpj48ac3jb6hogputtk6dq8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxKbV_lKB_remR8AUsJ9W_dUBFI99HRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155872078408-64klb37sjpj48ac3jb6hogputtk6dq8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
